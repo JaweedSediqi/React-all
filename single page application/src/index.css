@@ -1,0 +1,11 @@
+.nav-link {
+    font-size: 17px;
+    font-weight: bold;
+}
+.nav-link:hover,.active{
+    color: aqua!important;
+}
+*{
+    margin:0%;
+    padding:0%;
+}
